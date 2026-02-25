@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install framer-motion react-router-dom)",
+      "Bash(npm install -D tailwindcss@3 postcss autoprefixer)",
+      "Bash(npx tailwindcss init -p)",
+      "Bash(npx tsc -b)",
+      "Bash(npm ls framer-motion)",
+      "Bash(npm install motion)",
+      "Bash(npm run build)"
+    ]
+  }
+}
